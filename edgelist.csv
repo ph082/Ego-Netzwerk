@@ -1,13 +1,22 @@
-from,to,relation,weight
-NA,LR,friends,3
-LR,NA,friends,3
-NA,SM,friends,3
-SM,NA,friends,3
-NA,CH,friends,2
-CH,NA,friends,2
-NA,JA,family,2
-NA,JA,family,2
-LR,SM,group,1
-SM,LR,group,1
-SM,CH,friends,1
-CH,SM,friends,2
+id,name,sex,age,education,religion
+PH,Pia Hartmann,1,20,4,1
+KR,Katharina Riener,1,21,4,1
+YW,Yanneck Werz,2,27,5,2
+SD,Sarah Dodds,1,23,3,2
+KH,Kathrin Hartmann,1,52,2,1
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,1=female,,1= Hauptschule,1=katholisch
+,,2=male,,2= Mittlere Reife,2=evangelisch
+,,,,3=Fachabi,
+,,,,4=Abi,
+,,,,5= Studium,
+,,,,6=Promotion,
