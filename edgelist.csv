@@ -1,0 +1,13 @@
+from,to,relation,weight
+NA,LR,friends,3
+LR,NA,friends,3
+NA,SM,friends,3
+SM,NA,friends,3
+NA,CH,friends,2
+CH,NA,friends,2
+NA,JA,family,2
+NA,JA,family,2
+LR,SM,group,1
+SM,LR,group,1
+SM,CH,friends,1
+CH,SM,friends,2
